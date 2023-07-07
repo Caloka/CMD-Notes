@@ -82,9 +82,10 @@ rem Atalhos
 
 rem Setas para cima e baixo -> navega nos comandos usador anteriormente
 rem ESC -> limpa a escolhe usada
-~~~
+
 rem F7 -> exibe histórico de comandos
 rem ALT+F7 -> limpa o histórico de comandos
 rem F8 -> pesquisa o histórico de comandos
 rem F9 -> selecona um comando por número
 rem ALT+F10 -> limpa as definições de macros
+~~~
